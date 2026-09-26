@@ -1,0 +1,8 @@
+{
+  "name": "AUREVYXON",
+  "description": "AUREVYXON — Digital Asset & Software Security Marketplace",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
